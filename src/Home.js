@@ -33,6 +33,18 @@ function Home() {
             </ul>
           </div>
             </div>
+             {/* HOME CONTENT */}
+        <div className="container">
+          <div className="home__content">
+            <div className="home__meta">
+              <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
+              <h2 className="home__text pz__10">Olá, eu sou o Paulo Madson!</h2>
+              <h3 className="home__text sweet pz__10">Sou desenvolvedor Web,</h3>
+              <h4 className="home__text pz__10">Sou Paraense, mas atualmente moro</h4>
+              <h5 className="home__text pz__10">Na cidade de Rio grande - RS.</h5>
+              </div>
+              </div>
+              </div>
         </div>
     </div>
   )
