@@ -3,7 +3,7 @@ import Home from './Home.js';
 import About from "./About.js";
 import Service from "./Service.js";
 import Contact from "./Contact.js";
-//import Project from "./Project.js";
+import Project from "./Project.js";
 ///import Footer from "./Footer.js";
 
 function App() {
@@ -13,6 +13,7 @@ function App() {
         <About/>
        <Service/>
        <Contact />
+       <Project/>
 
     </div>
   );
