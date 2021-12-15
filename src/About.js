@@ -34,7 +34,7 @@ function About() {
                 <a href="https://drive.google.com/u/0/uc?id=1JGKuKiaGbyqNNix7XnkEVKNHr2Pjh8cJ&export=download">
                   <button className="about btn pointer">Baixar CV</button>
                 </a>
-                <a href="#Contact">
+                <a href="https://api.whatsapp.com/send?phone=5553999471481&text=Ol%C3%A1%20Paulo%2C%20preciso%20falar%20com%20voc%C3%AA!!!">
                   <button className="about btn pointer">Fale Comigo</button>
                 </a>
               </div>

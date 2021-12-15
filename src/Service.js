@@ -101,7 +101,7 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Editorde Conteúdo</h1>
+                <h1 className="service__text">Editor de Conteúdo</h1>
                 <p className="p service__text p__color">
                   Edição de banners,
                 </p>

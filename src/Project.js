@@ -33,7 +33,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Desenvolvido na SDS2 DevSuperior</h5>
                      <h4 className="project__text">PM DELIVERY</h4>
-                     <a href="#" className="project__btn">Mais detalhes</a>
+                     <a href="https://paulo-madson-pm-delivery.netlify.app/" className="project__btn">Mais detalhes</a>
                      </div>
                  </div>
              </div>
@@ -90,7 +90,7 @@ function Project() {
              </div>
 
 
-             <div className="col__3">
+              <div className="col__3">
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
@@ -101,7 +101,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Bootcamp Inter Frontend Developer</h5>
                      <h4 className="project__text">E-Commerce</h4>
-                     <a href="#" className="project__btn"></a>
+                     <a href="#" className="project__btn">Mais detalhes</a>
                      </div>
                  </div>
              </div>
