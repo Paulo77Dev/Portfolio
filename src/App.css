@@ -5,6 +5,8 @@
   outline: none;
 }
 
+
+
 body {
   width: 100%;
   height: 100%;
@@ -166,6 +168,22 @@ button.btn {
 button.about.btn.pointer:hover {
   background: #fff;
   color: #000 !important;
+}
+
+.social {
+  margin-left: 8%;
+  margin-top: 100px;
+}
+
+.social a {
+  font-size: 30px;
+  color: #212121;
+  margin-right: auto;
+}
+
+.social a:hover {
+  color: #0e6e77;
+
 }
 
 /* RESPONSIVE */

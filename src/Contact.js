@@ -25,6 +25,7 @@ function Contact() {
                     <img src={contactImg} alt="" className="contact__img" />
                 </div>
             </div>
+
         </div>
     )
 }
