@@ -13,23 +13,20 @@ function Home() {
           <div className="navigation pxy__30">
             <ul className="navbar d__flex">
               <a href="#Home">
-                <li className="nav__items mx__15">Home     </li>
+                <li className="nav__items mx__15">INÍCIO</li>
               </a>
               <a href="#About">
-                <li className="nav__items mx__15">About</li>
+                <li className="nav__items mx__15">SOBRE</li>
               </a>
               <a href="#Services">
-                <li className="nav__items mx__15">Services</li>
+                <li className="nav__items mx__15">TRABALHOS</li>
               </a>
               <a href="#Portfolio">
-                <li className="nav__items mx__15">Portfolio</li>
-              </a>
-              <a href="#Blog">
-                <li className="nav__items mx__15">Blog</li>
+                <li className="nav__items mx__15">PROJETOS</li>
               </a>
               <a href="#Contact">
-                <li className="nav__items mx__15">Contact</li>
-              </a>
+                <li className="nav__items mx__15">CONTATO</li>
+              </a>s
             </ul>
           </div>
             </div>
@@ -37,11 +34,10 @@ function Home() {
         <div className="container">
           <div className="home__content">
             <div className="home__meta">
-              <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
+              <h1 className="home__text pz__10">SEJAM MUITO BEM-VINDOS AO MEU MUNDO!</h1>
               <h2 className="home__text pz__10">Olá, eu sou o Paulo Madson!</h2>
-              <h3 className="home__text sweet pz__10">Sou desenvolvedor Web,</h3>
-              <h4 className="home__text pz__10">Sou Paraense, mas atualmente moro</h4>
-              <h5 className="home__text pz__10">Na cidade de Rio grande - RS.</h5>
+              <h3 className="home__text sweet pz__10">Sou desenvolvedor Web</h3>
+              <h4 className="home__text pz__10">E Sou Paraense!</h4>
               </div>
               </div>
               </div>

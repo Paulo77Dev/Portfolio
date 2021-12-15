@@ -6,12 +6,12 @@ function Service() {
     <div className="service component__space" id="Services">
 
       <div className="heading">
-        <h1 className="heading">My Awesome Service</h1>
+        <h1 className="heading">Meus  serviços</h1>
         <p className="heading p__color">
-          There are many variations of passages of Lorem Ipsum available,
+          Se não sei algo procuro aprender pra ficar bom naquilo também.
         </p>
         <p className="heading p__color">
-          but the majority have suffered alteration.
+          Desafios sempre me chamaram atenção!
         </p>
       </div>
 
@@ -36,14 +36,14 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Business Stratagy</h1>
+                <h1 className="service__text">Streamer do PetC3</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  levar ao público uma excelente 
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  experiência com o que está
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color"> sendo trasmitido.</p>
               </div>
             </div>
           </div>
@@ -68,14 +68,14 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Website Development</h1>
+                <h1 className="service__text">Desenvolvedor Web</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  Desenvolver sites em:
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  React, Html, Css e JavaScript.
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">E com demais tecnologias.</p>
               </div>
             </div>
           </div>
@@ -101,20 +101,20 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Marketing & Reporting</h1>
+                <h1 className="service__text">Editorde Conteúdo</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  Edição de banners,
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  criador de artes para eventos e 
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">gestor do canal PetC3.</p>
               </div>
             </div>
           </div>
 
           <div className="col__3">
-            <div className="service__box pointer">
+            <div className="service__box pointer">s
               <div className="icon">
                 <svg
                   stroke="currentColor"
@@ -133,14 +133,14 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Mobile App Development</h1>
+                <h1 className="service__text">Desenvolvimento Mobile</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  Desenvolver Apps mobile multiplataforma com
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  React Native.
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">Android e Ios.</p>
               </div>
             </div>
           </div>
@@ -166,14 +166,14 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Marketing & Reporting</h1>
+                <h1 className="service__text">Organizar & Realizar eventos</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  Planejar demais eventos acadêmicos,
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  organizar e realizar eventos com
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">a comunidade.</p>
               </div>
             </div>
           </div>
@@ -198,14 +198,14 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Mobile App Development</h1>
+                <h1 className="service__text">Editor de vídeo</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  Edição de videos para youtube, petições,
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  para datas comemorativas 
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color"> e Eventos.</p>
               </div>
             </div>
           </div>

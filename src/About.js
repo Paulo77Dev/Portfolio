@@ -15,30 +15,27 @@ function About() {
             <img src={aboutImg} alt="" className="about__img" />
           </div>
           <div className="col__2">
-            <h1 className="about__heading">About Me</h1>
+            <h1 className="about__heading">Sobre mim</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
+                Sou o Paulo Madson natural de Paragominas no Pará, desde os meus 13 anos sou apaixonado por tecnologia
+                e desde então comecei a me envolver mais, a saber mais sobre e como tudo funcionava. Em 2017
+                eu ingressei em um curso de informática no IFPA, que pude ter um estudo profundo sobre os mistérios da tecnologia. 
               </p>
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
+                Em 2020 como muito esforço e dedicação entrei para a tão sonhada faculdade de ENGENHARIA DE COMPUTAÇÃO, e meses depois entrei como bolsista em um
+                grupo(PETC3) que me fez aprender a trabalhar em grupo e desenvolver meus talentos e aprimora-lós a cada dia. Só que apesar de tudo isso acontecer em um 
+                pandêmico eu consegui tirar, e realmente ver o que eu gostava na tecnologia que é a programação web comecei a estudar e me aprofundar mais nas techs atuais do segmento.
               </p>
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
+               Sou Paulo Madson Graduando em Bacharelado de Engenharia de Computação na Universidade Federal do Rio Grande - FURG.
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="#">
-                  <button className="about btn pointer">Download Cv</button>
+                <a href="https://drive.google.com/u/0/uc?id=1JGKuKiaGbyqNNix7XnkEVKNHr2Pjh8cJ&export=download">
+                  <button className="about btn pointer">Baixar CV</button>
                 </a>
-                <a href="#">
-                  <button className="about btn pointer">Hire Me</button>
+                <a href="#Contact">
+                  <button className="about btn pointer">Fale Comigo</button>
                 </a>
               </div>
             </div>
