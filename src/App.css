@@ -134,7 +134,7 @@ svg {
 }
 
 strong {
-  color: #F9004D;
+  color: #f9004d;
   font-weight: 600;
 }
 
@@ -170,21 +170,7 @@ button.about.btn.pointer:hover {
   color: #000 !important;
 }
 
-.social {
-  margin-left: 8%;
-  margin-top: 100px;
-}
 
-.social a {
-  font-size: 30px;
-  color: #212121;
-  margin-right: auto;
-}
-
-.social a:hover {
-  color: #0e6e77;
-
-}
 
 /* RESPONSIVE */
 @media only screen and (max-width: 768px) {

@@ -50,7 +50,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Desenvolvido na NLW TOGETHER </h5>
                      <h4 className="project__text">LETMEASK</h4>
-                     <a href="#" className="project__btn">Mais detalhes</a>
+                     <a href="#" className="project__btn">EM DESENVOLVIMENTO</a>
                      </div>
                  </div>
              </div>
@@ -67,7 +67,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Bootcamp GOSTACK da Rockseat</h5>
                      <h4 className="project__text">Barbearia online</h4>
-                     <a href="#" className="project__btn">Mais detalhes</a>
+                     <a href="#" className="project__btn">EM DESENVOLVIMENTO</a>
                      </div>
                  </div>
              </div>
@@ -84,7 +84,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Desenvolvido para experiência</h5>
                      <h4 className="project__text">E-Commerce Petfood</h4>
-                     <a href="#" className="project__btn">Mais detalhes</a>
+                     <a href="#" className="project__btn">EM DESENVOLVIMENTO</a>
                      </div>
                  </div>
              </div>
@@ -101,7 +101,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Bootcamp Inter Frontend Developer</h5>
                      <h4 className="project__text">E-Commerce</h4>
-                     <a href="#" className="project__btn">Mais detalhes</a>
+                     <a href="#" className="project__btn">EM DESENVOLVIMENTO</a>
                      </div>
                  </div>
              </div>
@@ -118,12 +118,12 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Treinamento </h5>
                      <h4 className="project__text">Clone da Netflix</h4>
-                     <a href="#" className="project__btn">Mais detalhes</a>
+                     <a href="./img/portfolio-4.jpg" className="project__btn">EM DESENVOLVIMENTO</a>
                      </div>
                  </div>
              </div>
              <div className="view__more__btn d__flex align__items__center justify__content__center pxy__30">
-             <button className="view__more pointer btn">ver mais</button>
+             <button className="view__more pointer btn">FIM...</button>
              </div>
 
            </div>
