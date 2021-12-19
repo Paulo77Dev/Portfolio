@@ -5,6 +5,8 @@ import Service from "./Service.js";
 import Project from "./Project.js";
 import Contact from "./Contact.js";
 import Footer from "./Footer.js";
+import logo from "./img/logo-i.png"
+import Vlibras from "@djpfs/react-vlibras"
 
 function App() {
   return (
@@ -12,7 +14,11 @@ function App() {
         <Home />
         <About/>
        <Service/>
-       <Project/>
+        <Vlibras />  
+  <header className="App-header">
+  <img src={logo} className="App-logo"  Alt = "logo" />
+  </header>
+        <Project/>
        <Contact />
        <Footer/>
     </div>
