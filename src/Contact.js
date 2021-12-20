@@ -13,12 +13,11 @@ export default function Contact() {
         .then((result) => {
             alert("Mensagem enviada com sucesso! 👍");
            
-        }, (error) => {
-            alert(error.message)
+                }, (error) => {
+                    alert(error.message)
             
-        });
-        e.target.reset()
- 
+                });
+                     e.target.reset()
     }
     return(
 <div className="contact component__space" id="Contact">
@@ -26,18 +25,18 @@ export default function Contact() {
                 <div className="col__2">
                     <div className="contact__box">
                         <div className="contact__meta">
-                            <h1 className="hire__text">Contrate - Me.</h1>
-                                <p className="hire__text white">Estou disponível para trabalho autônomo. Conecte-se comigo por telefone:</p>
+                            <h1 className="hire__text">Fale comigo</h1>
+                                <p className="hire__text white">Estou disponível para trabalho, estágio e demais. Conecte-se comigo por telefone:</p>
                                     <p className="hire__text white"><strong>+55 53 99947 - 1481</strong> e email <strong>paulomadson16@gmail.com</strong></p>
                                     </div>                
                                 <div className="input__box">
                             <form onSubmit={sendEmail}>
-                        <input type="text" autoFocus className="contact name" required placeholder="Nome" name="name"/>
-                        <input type="email" className="contact email" required placeholder="Seu email" name="email"/>
-                        <textarea name="message" id="message" placeholder="Escreva sua mensagem"></textarea>
-                        <input type="submit" className="btn contact pointer" value="Enviar mensagem"></input>
+                            <input type="text" autoFocus className="contact name" required placeholder="Nome" name="name"/>
+                            <input type="email" className="contact email" required placeholder="Seu email" name="email"/>
+                            <textarea name="message" id="message" placeholder="Escreva sua mensagem"></textarea>
+                            <input type="submit" className="btn contact pointer" value="Enviar mensagem"></input>
                             </form>    
-                                </div>
+                                    </div>
                                 </div>
                             </div>
                         <div className="col__2">
