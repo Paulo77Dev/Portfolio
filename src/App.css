@@ -43,7 +43,7 @@ p {
 }
 
 .black {
-  color: #000 !important;
+  color: rgb(0, 0, 0) !important;
 }
 
 .d__flex {
@@ -84,7 +84,7 @@ p {
 }
 
 .sweet {
-  color: #F9004D;
+  color: #9cc507;
 }
 
 .row {
@@ -134,7 +134,7 @@ svg {
 }
 
 strong {
-  color: #f9004d;
+  color: #e0f806;
   font-weight: 600;
 }
 
@@ -146,8 +146,8 @@ button.btn {
   font-size: 18px;
   font-weight: 500;
   border-radius: 5px;
-  border: 2px solid #f9004d;
-  background-color: #f9004d;
+  border: 2px solid #e0f806;
+  background-color: #e0f806;
   color: #fff !important;
   text-transform: uppercase;
   letter-spacing: 2px;

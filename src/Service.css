@@ -22,7 +22,7 @@ p.heading.p__color {
 
 .service__box:hover {
   transform: translateY(5px);
-  background-image: linear-gradient(90deg, #0004f3, #8c92ec);
+  background-image: linear-gradient(90deg, #0004f3, #e0f806);
 }
 
 .service__box:hover .icon {
@@ -38,7 +38,7 @@ p.heading.p__color {
   font-weight: 400;
   margin-bottom: 23px;
   display: inline-flex;
-  color: #2500f9;
+  color: #e0f806;
 }
 
 p.service__text.p__color {
