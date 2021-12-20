@@ -22,7 +22,7 @@ p.heading.p__color {
 
 .service__box:hover {
   transform: translateY(5px);
-  background-image: linear-gradient(90deg, #0004f3, #e0f806);
+  background-image: linear-gradient(90deg, #cf1407, #e0f806);
 }
 
 .service__box:hover .icon {
