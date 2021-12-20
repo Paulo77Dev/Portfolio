@@ -20,11 +20,13 @@ button.about.btn.pointer {
   width: 195px;
   height: 55px;
   font-size: 18px;
+  background-color: #2d065e;
   transition: .4s ease;
 }
 
 .about__button {
   padding: 20px 0px;
+  border-color: #4B1B86;
 }
 
 a.bottom__to__top {
@@ -33,7 +35,7 @@ a.bottom__to__top {
   position: fixed;
   bottom: 3%;
   right: 2%;
-  background-color: #F9004D;
+  background-color: #2d065e;
   border-radius: 50%;
   cursor: pointer;
   display: none;

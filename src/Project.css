@@ -27,7 +27,7 @@ img.project__img::after {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #e0f806;
+    background-color: #2d065e;
     border-radius: 10px;
     transition: .4s;
     opacity: .3;
@@ -71,14 +71,14 @@ h4.project__text {
 
 a.project__btn {
     padding: 12px 35px;
-    border: 2px solid #ffffff87;
+    border: 2px solid #929088;
     border-radius: 5px;
     transition: .4s ease;
 }
 
 a.project__btn:hover {
-    background-color: #e0f806;
-    border: 2px solid #e0f806;
+    background-color: #2d065e;
+    border: 2px solid #ffc801;
 }
 
 button.btn {
@@ -86,18 +86,18 @@ button.btn {
     font-size: 18px;
     font-weight: 500;
     border-radius: 5px;
-    border: 2px solid #e0f806;
-    background-color: #e0f806;
-    color: #fff !important;
+    border: 2px solid #ffc801;
+    background-color: #2d065e;
+    color: #ffc801 !important;
     text-transform: uppercase;
     letter-spacing: 2px;
     transition: .4s all ease;
 }
 
 button.view__more:hover {
-    background-color: #fff;
-    border: 2px solid #e0f806;
-    color: #e0f806 !important;
+    background-color: #ffc801;
+    border: 2px solid #2d065e;
+    color: #2d065e !important;
 }
 
 /* RESPONSIVE */

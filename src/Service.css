@@ -17,16 +17,16 @@ p.heading.p__color {
   width: 100%;
   background-color: #191919;
   padding: 55px;
-  transition: .4s ease;
+  transition: 5s ease;
 }
 
 .service__box:hover {
   transform: translateY(5px);
-  background-image: linear-gradient(90deg, #cf1407, #e0f806);
+  background-image: linear-gradient(90deg, #4B1B86, #ffffff00);
 }
 
 .service__box:hover .icon {
-  color: #fff;
+  color: #ffc801;
 }
 
 .service__box:hover p.service__text.p__color {
@@ -38,7 +38,7 @@ p.heading.p__color {
   font-weight: 400;
   margin-bottom: 23px;
   display: inline-flex;
-  color: #e0f806;
+  color: #4B1B86;
 }
 
 p.service__text.p__color {

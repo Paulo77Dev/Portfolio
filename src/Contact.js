@@ -34,7 +34,7 @@ export default function Contact() {
                             <input type="text" autoFocus className="contact name" required placeholder="Nome" name="name"/>
                             <input type="email" className="contact email" required placeholder="Seu email" name="email"/>
                             <textarea name="message" id="message" placeholder="Escreva sua mensagem"></textarea>
-                            <input type="submit" className="btn contact pointer" value="Enviar mensagem"></input>
+                            <button className="btn contact pointer" type="submit">Enviar</button>
                             </form>    
                                     </div>
                                 </div>
