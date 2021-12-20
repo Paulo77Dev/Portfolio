@@ -21,6 +21,7 @@ button.about.btn.pointer {
   height: 55px;
   font-size: 18px;
   background-color: #2d065e;
+  
   transition: .4s ease;
 }
 
