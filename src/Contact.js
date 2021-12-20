@@ -10,7 +10,7 @@ function Contact() {
                         <div className="contact__meta">
                             <h1 className="hire__text">Contrate - Me.</h1>
                             <p className="hire__text white">Estou disponível para trabalho autônomo. Conecte-se comigo por telefone:</p>
-                           <p className="hire__text white"><strong>+55 53 99947 - 1481</strong> or email <strong>paulomadson16@gmail.com</strong></p>
+                           <p className="hire__text white"><strong>+55 53 99947 - 1481</strong> e email <strong>paulomadson16@gmail.com</strong></p>
                         </div>
                         <div className="input__box">
                            <input type="text" className="contact name" placeholder="Seu Nome *" />

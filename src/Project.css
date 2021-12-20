@@ -86,8 +86,8 @@ button.btn {
     font-size: 18px;
     font-weight: 500;
     border-radius: 5px;
-    border: 2px solid #e0f806#f9004d;
-    background-color: #e0f806#f9004d;
+    border: 2px solid #e0f806;
+    background-color: #e0f806;
     color: #fff !important;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -96,8 +96,8 @@ button.btn {
 
 button.view__more:hover {
     background-color: #fff;
-    border: 2px solid #e0f806#f9004d;
-    color: #e0f806#f9004d !important;
+    border: 2px solid #e0f806;
+    color: #e0f806 !important;
 }
 
 /* RESPONSIVE */
