@@ -44,7 +44,7 @@ function About() {
       </div>
       {/* UP TO TOP BTN */}
       <div className="up__to__top__btn">
-        <a href="https://drive.google.com/u/0/uc?id=1JGKuKiaGbyqNNix7XnkEVKNHr2Pjh8cJ&export=download"className="bottom__to__top">
+        <a href="./src/Home.js"className="bottom__to__top">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
