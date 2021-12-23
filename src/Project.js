@@ -17,7 +17,7 @@ function Project() {
           Projetos desenvolvidos em Bootcamps, semanas imersas,
         </p>
         <p className="heading p__color">
-          eventos que participei e para desenvolvimeto pessoal na área,
+          eventos que participei e para desenvolvimeto pessoal na área!
         </p>
       </div>
        <div className="container">

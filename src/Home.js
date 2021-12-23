@@ -34,7 +34,7 @@ function Home() {
         <div className="container">
           <div className="home__content">
             <div className="home__meta">
-              <h1 className="home__text pz__10">SEJAM MUITO BEM-VINDOS AO MEU MUNDO!</h1>
+              <h1 className="home__text pz__10">SEJAM BEM-VINDOS AO MEU MUNDO!</h1>
               <h2 className="home__text pz__10">Olá, eu sou o Paulo Madson!</h2>
               <h3 className="home__text sweet pz__10">Sou desenvolvedor Web</h3>
               <h4 className="home__text pz__10">E Sou Paraense!</h4>
