@@ -9,6 +9,7 @@ import Vlibras from "@djpfs/react-vlibras"
 
 function App() {
   return (
+  
     <div className="App">
         <Home />
         <About/>

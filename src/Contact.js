@@ -26,8 +26,7 @@ export default function Contact() {
                     <div className="contact__box">
                         <div className="contact__meta">
                             <h1 className="hire__text">Fale comigo</h1>
-                                <p className="hire__text white">Estou disponível para trabalho, estágio e demais. Conecte-se comigo por telefone:</p>
-                                   {/* <p className="hire__text white"><strong>+55 53 99947 - 1481</strong> e email <strong>paulomadson16@gmail.com</strong></p>*/}
+                                <p className="hire__text white">Estou disponível para trabalho, estágio e demais. Conecte-se comigo:</p>
                                     </div>                
                                 <div className="input__box">
                             <form onSubmit={sendEmail}>
