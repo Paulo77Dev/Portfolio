@@ -32,7 +32,7 @@ export default function Contact() {
                             <form onSubmit={sendEmail}>
                             <input type="text" autoFocus className="contact name" required placeholder="Nome" name="name"/>
                             <input type="email" className="contact email" required placeholder="Seu email" name="email"/>
-                            <textarea name="message" id="message" placeholder="Escreva sua mensagem"></textarea>
+                            <textarea name="menssage" id="menssage" placeholder="Escreva sua mensagem"></textarea>
                             <button className="btn contact pointer" type="submit">Enviar</button>
                             </form>    
                                     </div>
