@@ -26,7 +26,7 @@ function Home() {
               </a>
               <a href="#Contact">
                 <li className="nav__items mx__15">CONTATO</li>
-              </a>s
+              </a>
             </ul>
           </div>
             </div>

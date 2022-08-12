@@ -114,7 +114,7 @@ function Service() {
           </div>
 
           <div className="col__3">
-            <div className="service__box pointer">s
+            <div className="service__box pointer">
               <div className="icon">
                 <svg
                   stroke="currentColor"
