@@ -31,7 +31,7 @@ function About() {
                Sou Paulo Madson Graduando em Bacharelado de Engenharia de Computação na Universidade Federal do Rio Grande - FURG.
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="https://drive.google.com/u/0/uc?id=1k-mOs9ZLbGrJGhXxGVA4tZJhFV-lGiiJ&export=download">
+                <a href="https://drive.google.com/u/0/uc?id=1ikrgjHFGmrJd1nrmAgIAK3_J88cCuSSi&export=download">
                   <button className="about btn pointer">Baixar CV</button>
                 </a>
                 <a href="https://api.whatsapp.com/send?phone=5553999471481&text=Ol%C3%A1%20Paulo%2C%20preciso%20falar%20com%20voc%C3%AA!!!">
