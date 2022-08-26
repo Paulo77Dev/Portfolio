@@ -26,12 +26,13 @@ function About() {
                 Em 2020 como muito esforço e dedicação entrei para a tão sonhada faculdade de ENGENHARIA DE COMPUTAÇÃO, e meses depois entrei como bolsista em um
                 grupo(PETC3) que me fez aprender a trabalhar em grupo e desenvolver meus talentos e aprimora-lós a cada dia. Só que apesar de tudo isso acontecer em um 
                 pandêmico eu consegui tirar, e realmente ver o que eu gostava na tecnologia que é a programação web comecei a estudar e me aprofundar mais nas techs atuais do segmento.
+                atualmente trabalho como suporte de ti na tiamc agro(aprendiz).
               </p>
               <p className="about__text p__color">
                Sou Paulo Madson Graduando em Bacharelado de Engenharia de Computação na Universidade Federal do Rio Grande - FURG.
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="https://drive.google.com/u/0/uc?id=1ikrgjHFGmrJd1nrmAgIAK3_J88cCuSSi&export=download">
+                <a href="https://drive.google.com/file/d/1ikrgjHFGmrJd1nrmAgIAK3_J88cCuSSi/view?usp=download">
                   <button className="about btn pointer">Baixar CV</button>
                 </a>
                 <a href="https://api.whatsapp.com/send?phone=5553999471481&text=Ol%C3%A1%20Paulo%2C%20preciso%20falar%20com%20voc%C3%AA!!!">
