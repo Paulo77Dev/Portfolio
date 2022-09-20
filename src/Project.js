@@ -52,7 +52,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Desenvolvido no Treinee da Byte Jr. </h5>
                      <h4 className="project__text">RÁDIO DA BYTE</h4>
-                     <a href="https://rgbscolors.netlify.app/" className="project__btn">mais detalhes</a>
+                     <a href="https://radio-byte-jr.netlify.app/" className="project__btn">mais detalhes</a>
                      </div>
                  </div>
              </div>
