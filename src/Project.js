@@ -6,7 +6,8 @@ import Project2 from './img/portfolio-2.jpg';
 import Project3 from './img/portfolio-3.jpg';
 import Project4 from './img/portfolio-4.jpg';
 import Project5 from "./img/portfolio-5.jpg";
-import Project6 from "./img/portfolio-6.jpg";
+//import Project6 from "./img/portfolio-6.jpg";
+import Project7 from "./img/rgb_color.png";
 
 function Project() {
   return (
@@ -61,14 +62,14 @@ function Project() {
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Project6} alt="" className="project__img" />
+                             <img src={Project7} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Bootcamp GOSTACK da Rockseat</h5>
-                     <h4 className="project__text">Barbearia online</h4>
-                     <a className="project__btn">EM DESENVOLVIMENTO</a>
+                     <h5 className="project__text">DESAFIO RGB</h5>
+                     <h4 className="project__text">Formar cores</h4>
+                     <a href="https://rgbscolors.netlify.app/" className="project__btn">Mais detalhes</a>
                      </div>
                  </div>
              </div>
