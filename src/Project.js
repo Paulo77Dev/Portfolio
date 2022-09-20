@@ -2,7 +2,7 @@
 import React from "react";
 import "./Project.css";
 import Project1 from './img/portfolio-1.jpg';
-import Project2 from './img/portfolio-2.jpg';
+import Project2 from './img/radio.png';
 import Project3 from './img/portfolio-3.jpg';
 import Project4 from './img/portfolio-4.jpg';
 import Project5 from "./img/portfolio-5.jpg";
@@ -50,9 +50,9 @@ function Project() {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Desenvolvido na NLW TOGETHER </h5>
-                     <h4 className="project__text">LETMEASK</h4>
-                     <a className="project__btn">EM DESENVOLVIMENTO</a>
+                     <h5 className="project__text">Desenvolvido no Treinee da Byte Jr. </h5>
+                     <h4 className="project__text">RÁDIO DA BYTE</h4>
+                     <a href="https://rgbscolors.netlify.app/" className="project__btn">mais detalhes</a>
                      </div>
                  </div>
              </div>
