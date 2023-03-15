@@ -18,21 +18,18 @@ function About() {
             <h1 className="about__heading">Sobre mim</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                Sou o Paulo Madson natural de Paragominas no Pará, desde os meus 13 anos sou apaixonado por tecnologia
-                e desde então comecei a me envolver mais, a saber mais sobre e como tudo funcionava. Em 2017
-                eu ingressei em um curso de informática no IFPA, que pude ter um estudo profundo sobre os mistérios da tecnologia. 
+              Meu nome é Paulo Madson, nascido em Paragominas, no estado do Pará. Desde a minha adolescência, com apenas 13 anos, desenvolvi uma paixão inabalável pela tecnologia. A partir desse momento, comecei a me envolver mais com o tema e a buscar conhecimento sobre como tudo funciona.
+              Em 2017, decidi ingressar em um curso de informática no Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA), com o objetivo de aprofundar meus estudos sobre os mistérios da tecnologia. Durante o curso, tive a oportunidade de adquirir conhecimentos mais técnicos e avançados sobre o mundo da informática e suas aplicações.
+              Acredito que a tecnologia é um campo fascinante e em constante evolução, e estou sempre buscando novos desafios e oportunidades para aprimorar meus conhecimentos e habilidades nessa área tão importante e promissora.</p>
+              <p className="about__text p__color">
+              No ano de 2020, com muita perseverança e dedicação, realizei meu sonho de ingressar na faculdade de Engenharia de Computação. Poucos meses depois, fui agraciado com uma bolsa no grupo PETC3, onde tive a oportunidade de aprimorar minhas habilidades em trabalho em equipe e desenvolver meus talentos diariamente. Apesar do cenário pandêmico em que vivemos, consegui enxergar com clareza minha verdadeira paixão na área da tecnologia, que é a programação web, e comecei a estudar e aprofundar meus conhecimentos nas tecnologias mais atuais do segmento.
+              No ano de 2022, tive a oportunidade de trabalhar como TI na Timac Agro, onde pude colocar em prática os conhecimentos adquiridos no Curso técnico de informatica. Entretanto, decidi mudar de rumo e me dedicar à área de Engenharia de Automação, o que me levou a uma nova fase profissional. Atualmente, atuo como desenvolvedor fullstack na Wecast, bem como desenvolvedor web na Byte Jr. Além disso, estou realizando a capacitação 4.0 do ITEC/EMBRAPII FURG, buscando me aprimorar cada vez mais no mercado as minhas soft e hardskills.
               </p>
               <p className="about__text p__color">
-                Em 2020 como muito esforço e dedicação entrei para a tão sonhada faculdade de ENGENHARIA DE COMPUTAÇÃO, e meses depois entrei como bolsista em um
-                grupo(PETC3) que me fez aprender a trabalhar em grupo e desenvolver meus talentos e aprimora-lós a cada dia. Só que apesar de tudo isso acontecer em um 
-                pandêmico eu consegui tirar, e realmente ver o que eu gostava na tecnologia que é a programação web comecei a estudar e me aprofundar mais nas techs atuais do segmento.
-                atualmente trabalho como suporte de ti na tiamc agro(aprendiz).
-              </p>
-              <p className="about__text p__color">
-               Sou Paulo Madson Graduando em Bacharelado de Engenharia de Computação na Universidade Federal do Rio Grande - FURG.
+               Sou Paulo Madson Graduando em Bacharelado de Engenharia de Automação na Universidade Federal do Rio Grande - FURG.
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="https://drive.google.com/file/d/1ikrgjHFGmrJd1nrmAgIAK3_J88cCuSSi/view?usp=download">
+                <a href="https://drive.google.com/file/d/1KtsO2qUmkilQWGQ4IUkemCjE0lT_Fo5u/view?usp=download">
                   <button className="about btn pointer">Baixar CV</button>
                 </a>
                 <a href="https://api.whatsapp.com/send?phone=5553999471481&text=Ol%C3%A1%20Paulo%2C%20preciso%20falar%20com%20voc%C3%AA!!!">
