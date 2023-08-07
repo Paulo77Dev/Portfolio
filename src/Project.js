@@ -118,9 +118,9 @@ function Project() {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Treinamento </h5>
+                     <h5 className="project__text">Versão Frontend simples </h5>
                      <h4 className="project__text">Clone da Netflix</h4>
-                     <a className="project__btn">EM DESENVOLVIMENTO</a>
+                     <a href="clone-da-netflix-v1.netlify.app" className="project__btn">Mais detalhes</a>
                      </div>
                  </div>
              </div>
