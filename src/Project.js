@@ -120,12 +120,10 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Versão Frontend simples </h5>
                      <h4 className="project__text">Clone da Netflix</h4>
-                     <a href="clone-da-netflix-v1.netlify.app" className="project__btn">Mais detalhes</a>
+                     <a href="https://clone-da-netflix-v1.netlify.app" className="project__btn">Mais detalhes</a>
                      </div>
                  </div>
              </div>
-{/*<div className="view__more__btn d__flex align__items__center justify__content__center pxy__30"><button className="view__more pointer btn">FIM...</button></div>
- COMENTÁRIO JSX  */}
            </div>
        </div>
        
