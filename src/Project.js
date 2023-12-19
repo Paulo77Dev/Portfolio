@@ -3,9 +3,7 @@ import React from "react";
 import "./Project.css";
 import Project1 from './img/portfolio-1.jpg';
 import Project2 from './img/radio.png';
-import Project3 from './img/portfolio-3.jpg';
 import Project4 from './img/portfolio-4.jpg';
-import Project5 from "./img/portfolio-5.jpg";
 import Project6 from "./img/portfolio-6.jpg";
 import Project7 from "./img/rgb_color.png";
 
