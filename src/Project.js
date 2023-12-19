@@ -6,7 +6,7 @@ import Project2 from './img/radio.png';
 import Project3 from './img/portfolio-3.jpg';
 import Project4 from './img/portfolio-4.jpg';
 import Project5 from "./img/portfolio-5.jpg";
-//import Project6 from "./img/portfolio-6.jpg";
+import Project6 from "./img/portfolio-6.jpg";
 import Project7 from "./img/rgb_color.png";
 
 function Project() {
@@ -74,7 +74,7 @@ function Project() {
                  </div>
              </div>
 
-
+{/* UP TO TOP BTN 
              <div className="col__3">
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
@@ -104,6 +104,23 @@ function Project() {
                      <h5 className="project__text">Bootcamp Inter Frontend Developer</h5>
                      <h4 className="project__text">E-Commerce</h4>
                      <a className="project__btn">EM DESENVOLVIMENTO</a>
+                     </div>
+                 </div>
+             </div>
+
+*/}
+             <div className="col__3">
+                 <div className="project__box pointer relative">
+                     <div className="project__box__img pointer relative">
+                         <div className="project__img__box">
+                             <img src={Project6} alt="" className="project__img" />
+                         </div>
+                         <div className="mask__effect"></div>
+                     </div>
+                     <div className="project__meta absolute">
+                     <h5 className="project__text">Multimarcas Online</h5>
+                     <h4 className="project__text">E-commerce de carros</h4>
+                     <a href="https://multimarcas.online/" className="project__btn">Mais detalhes</a>
                      </div>
                  </div>
              </div>
